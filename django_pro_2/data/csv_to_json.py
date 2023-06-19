@@ -20,3 +20,4 @@ def convert(csv_file, json_file, model):
 if __name__ == '__main__':
     convert('ad.csv', 'ads.json', 'ads.ad')
     convert('category.csv', 'category.json', 'ads.category')
+
